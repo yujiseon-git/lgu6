@@ -1,6 +1,7 @@
 # lgu6
 
-- 참고 자료 : [github주소]
+- github : [https://github.com/yujiseon-git]
+- notion : []
 
 ## lab01
 - Python 프로그래밍 기초
